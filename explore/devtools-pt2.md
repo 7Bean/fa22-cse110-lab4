@@ -1,0 +1,2 @@
+1. The bug is that the input numbers are being read as strings and is performing concatenation instead of addition 
+2. I would use parseInt in order to read the string inputs and convert them to integers so addition can be performed as expected
